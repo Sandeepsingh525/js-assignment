@@ -1,2 +1,2 @@
 # js-assignment
-Letsupgrape is assignment
+Letsupgrade is assignment
